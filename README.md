@@ -1,1 +1,3 @@
-Part of mini-exercises on in CS50
+Part of mini-exercises in CS50
+
+Last updated: May 27, 2023
