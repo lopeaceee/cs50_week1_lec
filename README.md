@@ -1,0 +1,1 @@
+Part of mini-exercises on in CS50
